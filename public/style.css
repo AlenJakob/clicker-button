@@ -94,14 +94,14 @@
 @media(max-width:950px){
   .container{
  
-    margin:0;
+  
   }
 }
 @media(max-width:500px){
    .container{
      
     flex-
-    margin:0;
+  
   }
 }
 @media(max-width:300px){
@@ -109,7 +109,6 @@
      flex-wrap:wrap;
     
      width:80%;
-    flex-
-    margin:0;
+    
   }
 }
